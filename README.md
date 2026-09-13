@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Simulation
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
