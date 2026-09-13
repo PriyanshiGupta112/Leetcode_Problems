@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2974-minimum-number-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2974-minimum-number-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -60,5 +62,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
