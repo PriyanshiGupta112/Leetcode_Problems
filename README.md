@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
+| [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1768-merge-strings-alternately](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2974-minimum-number-game) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
