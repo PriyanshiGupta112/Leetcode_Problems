@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1695-maximum-erasure-value](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
