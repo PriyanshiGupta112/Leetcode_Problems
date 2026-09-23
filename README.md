@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1695-maximum-erasure-value](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1768-merge-strings-alternately](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sliding Window
