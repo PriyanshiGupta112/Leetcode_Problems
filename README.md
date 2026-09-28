@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [2418-sort-the-people](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -106,8 +107,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
