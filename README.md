@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0055-jump-game) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0055-jump-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
