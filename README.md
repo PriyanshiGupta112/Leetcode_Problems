@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0189-rotate-array) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
