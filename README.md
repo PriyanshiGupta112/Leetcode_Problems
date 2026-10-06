@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1006-clumsy-factorial](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1006-clumsy-factorial) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [1006-clumsy-factorial](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1006-clumsy-factorial) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2652-sum-multiples) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [1006-clumsy-factorial](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
