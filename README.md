@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1695-maximum-erasure-value](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1695-maximum-erasure-value](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
 | [2418-sort-the-people](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
