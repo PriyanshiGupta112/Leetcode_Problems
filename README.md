@@ -1,5 +1,29 @@
-# Leetcode_Problems
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 💜 LeetCode Solutions | Java, Python & SQL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Primary-orange?style=for-the-badge&logo=openjdk" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+A growing collection of my coding practice and LeetCode solutions, primarily implemented in **Java**, with occasional practice in **Python (Pandas)** and **SQL**.
+
+## 🎯 What I'm Working On
+
+- Strengthening Data Structures and Algorithms (DSA).
+- Improving problem-solving and logical thinking.
+- Practicing efficient solutions and analyzing time and space complexity.
+- Exploring data manipulation with Pandas and database queries with SQL.
+
+## 📂 Repository Organization
+
+Problems are organized into individual folders using their problem numbers and names. The topic-wise index below helps you find solutions by category.
+
+## 🌱 Progress
+
+Continuously learning, solving problems, and improving one solution at a time.
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
