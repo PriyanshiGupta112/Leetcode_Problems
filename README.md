@@ -37,6 +37,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1695-maximum-erasure-value](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2549-count-distinct-numbers-on-board) |
@@ -53,6 +54,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -62,6 +64,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [0383-ransom-note](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sliding Window
@@ -85,6 +88,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1695-maximum-erasure-value](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
