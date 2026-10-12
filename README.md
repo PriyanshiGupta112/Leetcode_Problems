@@ -185,4 +185,12 @@ Continuously learning, solving problems, and improving one solution at a time.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
