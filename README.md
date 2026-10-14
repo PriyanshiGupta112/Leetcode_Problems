@@ -32,6 +32,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -122,6 +123,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [0031-next-permutation](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -194,6 +196,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -204,4 +207,5 @@ Continuously learning, solving problems, and improving one solution at a time.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
