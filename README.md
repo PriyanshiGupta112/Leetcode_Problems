@@ -61,6 +61,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [2053-kth-distinct-string-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2788-split-strings-by-separator](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2788-split-strings-by-separator) |
 | [3498-reverse-degree-of-a-string](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -101,6 +102,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [2553-separate-the-digits-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2788-split-strings-by-separator](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2788-split-strings-by-separator) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
