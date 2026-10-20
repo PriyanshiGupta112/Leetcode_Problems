@@ -88,6 +88,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [0042-trapping-rain-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0055-jump-game) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -187,6 +188,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Monotonic Stack
