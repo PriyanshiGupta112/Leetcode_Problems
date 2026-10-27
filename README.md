@@ -133,6 +133,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [0142-linked-list-cycle-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
@@ -176,6 +177,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [1006-clumsy-factorial](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -206,12 +208,14 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
