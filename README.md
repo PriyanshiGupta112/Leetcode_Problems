@@ -157,6 +157,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [1266-minimum-time-visiting-all-points](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2549-count-distinct-numbers-on-board) |
+| [2651-calculate-delayed-arrival-time](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
