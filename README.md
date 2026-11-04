@@ -111,6 +111,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [3467-transform-array-by-parity](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4020-elevator-requests-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
@@ -161,6 +162,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [2652-sum-multiples](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
