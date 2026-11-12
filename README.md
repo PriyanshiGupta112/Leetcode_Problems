@@ -63,6 +63,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2788-split-strings-by-separator) |
 | [3498-reverse-degree-of-a-string](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 | [4020-elevator-requests-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
@@ -126,6 +128,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [2974-minimum-number-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 | [4020-elevator-requests-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
