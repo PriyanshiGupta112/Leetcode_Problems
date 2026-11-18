@@ -27,6 +27,7 @@ public class Solution {
         while(slow!=fast){
             slow=slow.next;
             fast=fast.next;
+            
         }
             if(slow==fast){
                 return slow;
