@@ -113,6 +113,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3467-transform-array-by-parity](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
