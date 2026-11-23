@@ -159,6 +159,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | [0042-trapping-rain-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | ------- |
 | [0189-rotate-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0509-fibonacci-number](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1006-clumsy-factorial) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -240,6 +242,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -261,4 +264,8 @@ Continuously learning, solving problems, and improving one solution at a time.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
