@@ -50,6 +50,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0434-number-of-segments-in-a-string) |
@@ -87,6 +88,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
@@ -252,4 +254,8 @@ Continuously learning, solving problems, and improving one solution at a time.
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
