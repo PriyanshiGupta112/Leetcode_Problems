@@ -51,6 +51,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0434-number-of-segments-in-a-string) |
@@ -198,6 +199,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
@@ -208,6 +210,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
