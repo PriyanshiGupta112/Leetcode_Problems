@@ -172,6 +172,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0509-fibonacci-number) |
@@ -235,6 +236,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
@@ -245,6 +247,7 @@ Continuously learning, solving problems, and improving one solution at a time.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/PriyanshiGupta112/Leetcode_Problems/tree/master/0509-fibonacci-number) |
